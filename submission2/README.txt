@@ -2,7 +2,7 @@ Link to unlisted youtube video:
 https://youtube.com/.....
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/.....
+https://docs.google.com/presentation/d/10asEBOicZcgX-paD2EuzQxIIgUrjtHDKNjx34RPUFqU/edit?usp=sharing
 
 Paper title:
 A Deep Hybrid Learning Approach to Detect Bangla Fake News
